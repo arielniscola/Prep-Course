@@ -1,0 +1,10 @@
+* Variables: una variable es un pedacito de memoria que se le asigna un nombre para identificarla, la cual va cambiando su valor a lo largo de la ejecución de un programa.
+
+* Strings: los strings son un tipo de dato de las variables el cual se almacena una cadena de caracteres(palabras, oraciones, etc.)
+
+* funciones(argumentos, return): una función es conjunto de tareas que se ejecutan cuando se las invocan, por lo tanto deben tener asignado un nombre para poder llamarlas. Además a las funciones se les pueden pasar parámetros
+                                los cuales se pueden usar dentro de una función para realizar determinadas tareas. Una función puede tener un retorno del resultado obtenido al ejecutar sus instrucciones, que vuelve al lugar donde se las llamo.
+
+* Declaraciones if: las declaraciones if son aquellas que nos permiten ejecutar unas ciertas tareas si se cumple con una condición establecida.
+
+* Valores booleanos: los valores booleanos solo pueden tener 2 estados, verdadero o falso. Los cuales se utilizan para determinar si se hace algo o no.
