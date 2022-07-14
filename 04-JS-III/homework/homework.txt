@@ -1,0 +1,1 @@
+* Arrays: un array es un tipo de dato donde se almacenan un conjunto de valores que pueden ser de distintos tipo de datos. Los valores deben ir dentro de corchetes, separados por comas.
