@@ -1,0 +1,6 @@
+* For: los bucles for se utilizan para repetir la ejecución de una parte código bajo ciertas condiciones determinadas. Estas condiciones se ponen dentro de un paréntesis, la primera se crea una variable la cual usaremos para ir incrmentandola,
+la segunda se hace una comparación la cual si es verdadera se sigue ejecutando hasta que sea falsa, y en la tercera incrementamos la variable creada en la primera miestras se siga ejecutando el ciclo.
+
+* Operadores lógicos: `&&`, `||`, `!`: estos operadores se utilizan para determinar si se cumplen condiciones determinadas(true o false). && nos indica que se deben cumplir las 2 condiciones ingresadas
+para que sea verdadera, si una no se cumple es falsa. || este operador nos indica que si una de las 2 condiciones es verdadera toda la expresión es verdadera, por lo tanto para que sea falsa deben ser 
+ambas falsas. Por último ! es un operador que se usa en una sola condición, y nos indica el inverso del resultado de la condición, es decir si la condición es verdadera lo transforma en falsa y viceversa.
