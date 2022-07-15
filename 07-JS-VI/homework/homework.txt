@@ -1,0 +1,2 @@
+* Callbacks: los Callbacks son funciones que pasamos como parámetro/argumento en otras funciones y las cuales podemos ejecutar en cualquier momento dentro de la función. Siempre que se ejecute 
+            un callbacks retorna al lugar donde se llamo, en este caso dentro de la función.
