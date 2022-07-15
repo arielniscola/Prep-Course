@@ -1,0 +1,6 @@
+* Objetos: los objetos son una estructuras donde se pueden almacenar datos. Estos se almacenan con un identificador(clave) y un valor. Además pueden con
+* Propiedades: las propiedades son atributos que tienen o se les asignan a los objetos, y tiene como objetivo definir características propias del objeto. Básicamente son variables comunes asociadas a los objeto
+* Métodos: los métodos son funciones que se les asigan a un objeto como si fuera una propiedad más, y los cuales podes llamarlos mediante el nombre del objeto más el nombre de la propiedad seguido de paréntesis;
+* Bucle `for…in`: este blucle se utiliza para iterar al los objetos ya que no tiene índices numéricos, se los debe hacer mediante el par clave - valor. Lo que hace es iterar por cada propiedad, y obtener el valor de la misma de un objeto-
+* Notación de puntos vs notación de corchetes: con la notación de puntos podemos llamar a las propiedades de los objetos solo con el nombre de la propiedad, en cambio con la notación de corchetes
+podes acceder a las propiedades median un string, número o una variable que apunte una string o un numero
