@@ -1,0 +1,20 @@
+img{
+    width: 400px; 
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: beige;
+    padding: 50px;
+    border: 1px goldenrod;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url(' https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/color-degradado-fondos-degradados-multicolor-51200.jpg?fit=1920%2C1200&ssl=1');
+}
+div{
+    align-items: center;
+}
