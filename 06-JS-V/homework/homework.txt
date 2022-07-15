@@ -1,0 +1,3 @@
+* prototype: todos los objetos de javascript se relacionan con otro objeto que se llama prototype, el cual tiene propiedades y funciones que se pueden acceder. Si una propiedad o funcion no se encuentra defina
+en el objeto creado busca en el prototype. Se pueden agregar funciones al prototype para que herenden todos los objetos.
+* Constructors (de Clases): los contructores de Clases son funciones que tienen como objetivo crear un objeto con las caracteristicas de la clase en cuestión. En estas funciones se pueden inicializar propiedades.
